@@ -52,7 +52,7 @@ I care about clean code, rigorous experimentation, and shipping things that actu
 
 ## 🏆 Featured Projects
 
-### 🍎 [Yummy AI – Intelligent Food & Fruit Analysis](https://github.com/omarelnokrashy/AI-Calories-calculator)
+### [Yummy AI – Intelligent Food & Fruit Analysis](https://github.com/omarelnokrashy/AI-Calories-calculator)
 > **🥇 1st Place – Ain Shams University Computer Vision Competition**
 
 End-to-end vision system for food/fruit image analysis. Combines binary classification, multiclass segmentation, and calorie estimation. Built with custom CNNs, **Swin Transformers**, and **few-shot learning (ProtoNet)**, deployed as a live Streamlit app.
@@ -61,7 +61,7 @@ End-to-end vision system for food/fruit image analysis. Combines binary classifi
 
 ---
 
-### 🍋 [Fine-Grained Fruit Quality Assessment](https://github.com/omarelnokrashy/Fine-Grained-Fruit-Quality-Assessment)
+### [Fine-Grained Fruit Quality Assessment](https://github.com/omarelnokrashy/Fine-Grained-Fruit-Quality-Assessment)
 > **🥇 1st Place – Kaggle Competition (AI Department)**
 
 7-class fruit ripeness & spoilage classifier. Designed and benchmarked multiple architectures; custom **Hybrid CNN-Transformer** model achieved **95% test accuracy**.
@@ -70,7 +70,7 @@ End-to-end vision system for food/fruit image analysis. Combines binary classifi
 
 ---
 
-### 🪐 [ExoNet – NASA SpaceApps 2025](https://github.com/omarelnokrashy/exonet-nasa-spaceapps-2025)
+###  [ExoNet – NASA SpaceApps 2025](https://github.com/omarelnokrashy/exonet-nasa-spaceapps-2025)
 
 AI pipeline to detect exoplanets from NASA transit-survey light curve data using multi-modal features. Includes an interactive web app for signal visualization.
 
@@ -78,14 +78,14 @@ AI pipeline to detect exoplanets from NASA transit-survey light curve data using
 
 ---
 
-### 🧬 Breast Cancer Classifier
+###  Breast Cancer Classifier
 Logistic Regression model with rigorous feature engineering achieving **98.5% accuracy** and **F1 = 0.99** on the Wisconsin Breast Cancer dataset.
 
 `scikit-learn` `Feature Engineering` `ML` `Python`
 
 ---
 
-### 🗺️ TSP Genetic Algorithm Solver
+###  TSP Genetic Algorithm Solver
 Real-time Traveling Salesman Problem solver with Tournament Selection, OX1 Crossover, and Swap Mutation. Streamlit dashboard for live hyperparameter tuning.
 
 `Genetic Algorithms` `Optimization` `Streamlit` `Python`
@@ -106,7 +106,6 @@ Real-time Traveling Salesman Problem solver with Tournament Selection, OX1 Cross
 - 🎓 **IBM AI Workflow Professional Certificate**
 - 🎓 **Machine Learning Specialization** – Andrew Ng / DeepLearning.AI
 - 🎓 **Associate Data Analyst with SQL** – DataCamp
-- 🏛️ **Sawiris Distinction Scholarship** – Fully funded merit scholarship
 
 ---
 
