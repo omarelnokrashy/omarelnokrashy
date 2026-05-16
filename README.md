@@ -92,14 +92,6 @@ Real-time Traveling Salesman Problem solver with Tournament Selection, OX1 Cross
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarelnokrashy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelnokrashy&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 📜 Certifications
 
